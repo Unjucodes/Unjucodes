@@ -2,7 +2,7 @@
 - 👀 I’m interested in python.
 - 🌱 I’m currently learning python.
 - 🫠 My dream is to become a software engineer, and hopefully work at google.
-- 📫 You can reach me by emailing: ujnz1102@gmail.com
+- 📫 You can reach me by emailing: ujnz1102@gmail.com, and I discord username: octopill
   
 
 <!---
